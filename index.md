@@ -13,3 +13,6 @@ const team2 = 20;
 const sum = team1 + team2;
 console.log(sum);
 ```
+- [x] First task
+- [x] Second task
+- [ ] Third task
