@@ -6,3 +6,10 @@
 ###### This is an h6 header
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```javascript
+const team1 = 10;
+const team2 = 20;
+const sum = team1 + team2;
+console.log(sum);
+```
